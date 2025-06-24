@@ -1,1 +1,3 @@
 # Manual_Functional_Testing_Trello_Test-Scenario
+
+https://trello.com/invite/b/68547c83edd948b6d380ed78/ATTI6638b9435870f13543ed2b8b81b8d863079369C7/test
